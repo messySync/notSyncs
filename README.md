@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @notSyncs
+- 👋 Hi, I’m @messySync
 - 👀 I’m interested in cracking thing's
 - 🌱 I’m currently working on a project called Butterfly!
